@@ -1,0 +1,3 @@
+#install tk :	pip install tk
+#mysqlcmd: pip install mysql-connector-python
+
